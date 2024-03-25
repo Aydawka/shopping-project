@@ -1,17 +1,14 @@
 import React from 'react';
 import Home from "./home/Home"
-import About from "./about/About";
-
+import Footer from "./Footer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>app</p>
           <Home />
-          <About />
-      </header>
+          <Footer />
     </div>
+
   );
 }
 
