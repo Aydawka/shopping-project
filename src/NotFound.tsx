@@ -4,7 +4,7 @@ import React from 'react';
   return (
     <div className="makeup">
       <header className="makeup">
-        <p>not gound page</p>
+        <p>not found page</p>
       </header>
     </div>
   );
